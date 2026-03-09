@@ -29,3 +29,9 @@ El proyecto se divide en tres pilares fundamentales:
 - ✅ **Métricas en Tiempo Real**: Conteo preciso de palabras y caracteres.
 - ✅ **Generación de Objetos**: El motor no devuelve texto, devuelve una instancia de resultado.
 - ✅ **Informes Estructurados**: Visualización profesional mediante el método mágico `__str__`.
+
+## 🛠️ Instalación y Uso
+
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/TU_USUARIO/Mini-proyectos-poo.git](https://github.com/TU_USUARIO/Mini-proyectos-poo.git)
