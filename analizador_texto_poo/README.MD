@@ -1,5 +1,8 @@
 # 🚀 Analizador de Texto Inteligente (POO Edition)
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![Paradigm](https://img.shields.io/badge/Paradigm-OOP-orange?style=for-the-badge)
+
 Este proyecto marca el inicio de mi **Evolución 2.0** como desarrollador. Representa la transición de una programación funcional/procedimental hacia la **Programación Orientada a Objetos (POO)**, aplicando conceptos de encapsulamiento y modularidad.
 
 ---
