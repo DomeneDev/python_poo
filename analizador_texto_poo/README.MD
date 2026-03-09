@@ -9,6 +9,7 @@ Transformar un procesador de texto convencional en un sistema robusto donde la l
 
 ### 💡 Evolución del Código
 - **v1.0 (Procedimental):** Funciones aisladas que recibían y devolvían strings/números.
+      https://github.com/DomeneDev/Analizador_de_metricas_de_texto
 - **v2.0 (POO):** Uso de clases "Motor" para procesar y clases "Modelo" para estructurar resultados.
 
 ---
