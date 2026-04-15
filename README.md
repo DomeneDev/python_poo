@@ -22,7 +22,7 @@ A continuación se detalla el estado de la migración de los proyectos:
 | Proyecto | Descripción | Estado |
 | :--- | :--- | :--- |
 | **01. Analizador de Texto** | Procesador de métricas con modelos de datos e informes dinámicos. | ✅ Completado |
-| **02. Home Budget** | Gestión financiera personal basada en clases de movimientos y balances. | 🕒 Pendiente |
+| **02. Home Budget** | Gestión financiera personal basada en clases de movimientos y balances. | ✅ Completado |
 | **03. Gestor de Tareas** | Sistema de prioridades y estados mediante objetos. | 🕒 Pendiente |
 | **04. Generador de Contraseñas** | Herramienta de seguridad modular con lógica de cifrado encapsulada. | 🕒 Pendiente |
 | **05. Gestor de Notas** | CRUD de información con persistencia de objetos. | 🕒 Pendiente |
