@@ -38,14 +38,3 @@ En esta etapa de mi formación, cada línea de código sigue estos criterios:
 4. **Git Flow:** Gestión de versiones limpia y mensajes de commit semánticos.
 
 ---
-
-## 🚀 Cómo navegar este repo
-Cada carpeta dentro de este repositorio funciona como un módulo independiente:
-
-```bash
-/python_poo
-  ├── 01_analizador_texto_poo/  # Proyecto actual en desarrollo
-  │    ├── models.py      # Definición de clases (Entidades)
-  │    ├── analizador.py  # Lógica del motor
-  │    └── main.py        # Orquestador del sistema
-  └── data/               # Persistencia de datos (JSON)
