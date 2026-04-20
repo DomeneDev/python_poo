@@ -20,8 +20,3 @@ El código se divide en 4 módulos estratégicos:
 * **`utils.py`**: Capa de soporte encargada de la interacción limpia con el usuario y captura de excepciones.
 * **`main.py`**: El orquestador que inicia el programa y mantiene el estado de la aplicación.
 
-## 🛠️ Instalación y Uso
-
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/python_poo.git](https://github.com/tu-usuario/python_poo.git)
