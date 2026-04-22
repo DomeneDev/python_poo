@@ -25,7 +25,7 @@ A continuación se detalla el estado de la migración de los proyectos:
 | **02. Home Budget** | Gestión financiera personal basada en clases de movimientos y balances. | ✅ Completado |
 | **03. Gestor de Tareas** | Sistema de prioridades y estados mediante objetos. | ✅ Completado |
 | **04. Generador de Contraseñas** | Herramienta de seguridad modular con lógica de cifrado encapsulada. | ✅ Completado |
-| **05. Gestor de Notas** | CRUD de información con persistencia de objetos. | 🕒 Pendiente |
+| **05. Gestor de Notas** | CRUD de información con persistencia de objetos. | ✅ Completado |
 
 ---
 
